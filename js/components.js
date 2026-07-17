@@ -16,7 +16,6 @@
     </a>\
     <div class="hidden md:flex gap-md items-center font-label-md text-label-md">\
       <a class="nav-link text-on-surface-variant hover:text-primary transition-colors duration-200" data-nav-page="chi-siamo" href="chi-siamo.html">Chi Siamo</a>\
-      <a class="nav-link text-on-surface-variant hover:text-primary transition-colors duration-200" data-nav-page="strumentazione" href="strumentazione.html">Strumentazione</a>\
       <a class="nav-link text-on-surface-variant hover:text-primary transition-colors duration-200" data-nav-page="siti-osservativi" href="siti-osservativi.html">Siti Osservativi</a>\
       <a class="nav-link text-on-surface-variant hover:text-primary transition-colors duration-200" data-nav-page="contatti" href="contatti.html">Contatti</a>\
       <a class="bg-primary text-on-primary px-4 py-2 rounded font-label-md hover:brightness-110 transition-all duration-200" href="iscrizione.html">Diventa Socio</a>\
@@ -28,7 +27,6 @@
   <div id="mobile-menu" class="md:hidden bg-surface border-t border-outline-variant">\
     <div class="flex flex-col px-sm md:px-lg py-md space-y-md">\
       <a class="font-label-md text-on-surface-variant hover:text-primary" data-nav-page="chi-siamo" href="chi-siamo.html">Chi Siamo</a>\
-      <a class="font-label-md text-on-surface-variant hover:text-primary" data-nav-page="strumentazione" href="strumentazione.html">Strumentazione</a>\
       <a class="font-label-md text-on-surface-variant hover:text-primary" data-nav-page="siti-osservativi" href="siti-osservativi.html">Siti Osservativi</a>\
       <a class="font-label-md text-on-surface-variant hover:text-primary" data-nav-page="contatti" href="contatti.html">Contatti</a>\
       <a class="bg-primary text-on-primary px-4 py-2 rounded font-label-md text-center" href="iscrizione.html">Diventa Socio</a>\
@@ -56,7 +54,6 @@
       <h4 class="font-label-md text-label-md text-on-surface mb-sm uppercase tracking-wider">Navigazione</h4>\
       <ul class="space-y-2 font-body-md text-body-md text-on-surface-variant">\
         <li><a class="hover:text-primary transition-colors" href="chi-siamo.html">Chi Siamo</a></li>\
-        <li><a class="hover:text-primary transition-colors" href="strumentazione.html">Strumentazione</a></li>\
         <li><a class="hover:text-primary transition-colors" href="siti-osservativi.html">Siti Osservativi</a></li>\
       </ul>\
     </div>\
