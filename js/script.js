@@ -117,7 +117,6 @@
                      'Nome e Cognome: ' + data['nome-cognome'] + '\n' +
                      'Nato/a a: ' + data['luogo-nascita'] + ' il ' + data['data-nascita'] + '\n' +
                      'Residente a: ' + data['residenza'] + '\n' +
-                     'Tipologia Socio: ' + data['tipologia-socio'] + '\n' +
                      'Telefono: ' + (data['telefono'] || 'N/D') + '\n' +
                      'Cellulare: ' + (data['cellulare'] || 'N/D') + '\n' +
                      'Lavoro: ' + (data['attivita-lavorativa'] || 'N/D') + '\n' +
