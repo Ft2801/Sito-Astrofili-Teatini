@@ -114,12 +114,12 @@ html.lenis, html.lenis body {
 
 /* === Hero: altezza piena viewport meno navbar fissa (5rem), senza dvh === */
 .hero-full {
-  height: calc(100vh);
+  height: calc(110vh);
 }
 
 @media (max-width: 767px) {
   .hero-full {
-    height: calc(100svh);
+    height: calc(110svh);
   }
 }
 
